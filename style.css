@@ -1,0 +1,54 @@
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: #80adbc;
+        font-family: Arial, sans-serif;
+        background-image: url('C:\Users\Mukila.k\Downloads\pexels-daniyal-ghanavati-10741-70069.jpg');
+    }
+    
+    .container {
+        text-align: center;
+        background: #be44ad;
+        padding: 20px;
+        border-radius: 10px;
+        border: #0056b3 solid;
+    }
+    
+    .quote-box {
+        margin: 20px;
+        /*border: #0056b3 solid;*/
+    }
+    
+    #quote {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
+    
+    button {
+        background: #007bff;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background: #0056b3;
+    }
+    
+    .social-share {
+        margin-top: 20px;
+    }
+    
+    .social-share a {
+        color: #007bff;
+        margin: 0 10px;
+        font-size: 1.5em;
+    }
+    
+    .social-share a:hover {
+        color: #0056b3;
+    }
